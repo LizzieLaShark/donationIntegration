@@ -1,0 +1,26 @@
+{
+  "name": "donation-integration",
+  "version": "1.0.0",
+  "description": "flow2cash - nationbuilder integration",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizzieLaShark/donationIntegration.git"
+  },
+  "author": "LizzieLaShark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LizzieLaShark/donationIntegration/issues"
+  },
+  "homepage": "https://github.com/LizzieLaShark/donationIntegration#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {
+    "dotenv": "^2.0.0"
+  }
+}
